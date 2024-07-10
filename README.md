@@ -1,7 +1,7 @@
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
-![typing](https://readme-typing-svg.herokuapp.com?font=cascade&color=EEEEEE&background=111111&center=true&vCenter=true&height=200&duration=2500&pause=500&lines=Hello!;My+name+is+SIddharth.;I+like+to+make+crezy+projects;Check+out+my+repositories!)
+![typing](https://readme-typing-svg.herokuapp.com?font=cascade&color=EEEEEE&background=111111&center=true&vCenter=true&height=200&duration=2500&pause=500&lines=Hello!;My+name+is+Siddharth.;I+like+to+make+crezy+projects;Check+out+my+repositories!)
 
 <h1 align="center">Hi 👋, I'm Siddharth </h1>
 <!-- <h3 align="center">A passionate FullStack Developer from India</h3> -->
@@ -13,9 +13,9 @@
 <p align="left"> <a href="https://twitter.com/siddharth-vss" target="blank"><img src="https://img.shields.io/twitter/follow/siddharth-vss?logo=twitter&style=for-the-badge" alt="siddharth-vss"  </p>
 
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN** and **MEAN**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am CREATIVE**
 
 
 <h3 align="left">Languages and Tools:</h3>
