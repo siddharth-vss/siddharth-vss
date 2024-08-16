@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth-vss&label=Profile%20viewers&color=9155fd&style=flat" alt="siddharth-vss" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Sparrow2056" target="blank"><img src="https://img.shields.io/twitter/follow/siddharth-vss?logo=twitter&style=for-the-badge" alt="siddharth-vss"  </p>
+<p align="left"> <a href="https://twitter.com/Sparrow2056" target="blank"><img src="https://img.shields.io/twitter/follow/siddharth-vss?logo=twitter&style=for-the-badge" alt="siddharth-vss" /> </p>
 
 
 - 💬 Ask me about **MERN** and **MEAN**
